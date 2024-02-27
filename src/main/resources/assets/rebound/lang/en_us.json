@@ -1,0 +1,36 @@
+{
+  "text.config.reboundedconfig.title": "Rebound config",
+  "text.config.reboundedconfig.option.PermaHarcode": "Permanent Hardcode scaling",
+  "text.config.reboundedconfig.option.PermaHarcode.tooltip": "Permanent Hardcode difficulty scaling",
+  "text.config.reboundedconfig.option.Difficulty": "Difficulty",
+  "text.config.reboundedconfig.enum.choices.easymode": "§aEasy Mode",
+  "text.config.reboundedconfig.enum.choices.EasyMode.tooltip": "Swap On Death",
+  "text.config.reboundedconfig.enum.choices.whatkeyagain": "§6What Key Again",
+  "text.config.reboundedconfig.enum.choices.WhatKeyAgain.tooltip": "Start Swapping on half HP\nAlso swap X% of key bind death",
+  "text.config.reboundedconfig.enum.choices.youwantedthis": "§4You Wanted This",
+  "text.config.reboundedconfig.enum.choices.YouWantedThis.tooltip": "It's a Surprise",
+
+
+  "text.config.reboundedconfig.option.Difficulty.tooltip": "Change when the game will change your Key bind",
+  "text.config.reboundedconfig.option.PopUpDisplay": "Toast Display",
+  "text.config.reboundedconfig.option.PopUpDisplay.tooltip": "Do I need to explain?",
+  "text.config.reboundedconfig.option.RandomizedPercent": "Randomized Percent",
+  "text.config.reboundedconfig.option.RandomizedPercent.tooltip": "What Key Again Difficulty X% of randomization on death",
+
+
+
+  "key.rebound.showkeybinggui": "Show KeyBind Overlay",
+  "category.rebound": "Rebound",
+
+
+  "PopUp.rebound.KeySwapped.title": "Keys has been Swapped :D",
+  "PopUp.rebound.KeySwapped.Description": "has been swapped with",
+  "PopUp.rebound.KeyRandomized.title": "Keyboard has been randomized",
+  "PopUp.rebound.PercentKeyRandomized.title": "of the keyboard has been randomized",
+  "PopUp.rebound.KeyRandomized.Description": "Good Luck :D",
+  "PopUp.rebound.Warning.title": "DON'T DO IT",
+  "PopUp.rebound.Warning.Description": "There's only one warning",
+  "PopUp.rebound.Whathaveyoudone.title": "What have you done",
+  "PopUp.rebound.Whathaveyoudone.Description": "Why didn't you listen"
+
+}

@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "rebound",
+	"version": "1.0.1",
+	"name": "Rebound",
+	"description": "Your keys get to bounce off !",
+	"authors": [
+		"Catalyss"
+	],
+	"contact": {
+		"homepage": "Here",
+		"sources": "None :D"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/rebound/iconV1.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"catalyss.rebound.Rebound"
+		]
+	},
+	"mixins": [
+		"rebound.mixins.json"
+	],
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
